@@ -47,11 +47,11 @@
   "my_data":[
   {"desc1":"description1 ser ",
    "photo1":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc2":"description2 ser","photo2":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc3":"description3 ser","photo3":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc4":"description4 ser","photo4":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc5":"description5 ser","photo5":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"descd":"description d ser","photod":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"desc2":"Barvikha RP is situated in the prestigious Moscow suburb of Barvikha, known for its pristine natural beauty. ","photo2":"https://iili.io/HU4FCqN.jpg"},
+  {"desc3":"The resort boasts a stunning location amidst lush forests and tranquil landscapes, providing an idyllic escape from the bustling city life.","photo3":"https://iili.io/HU4FfXR.jpg"},
+  {"desc4":" The picturesque setting sets the stage for a luxurious and rejuvenating retreat.","photo4":"https://iili.io/HU4Fqsp.jpg"},
+  {"desc5":"The architecture and design of Barvikha RP exude elegance and sophistication. The resort showcases a harmonious blend of modern aesthetics and traditional Russian elements,","photo5":"https://iili.io/HU4Fn1I.jpg"},
+  {"descd":"creating an ambiance that is both timeless and luxurious. From the grand entrance to the meticulously designed interiors, every aspect of the property reflects impeccable attention to detail.","photod":"https://iili.io/HU4Fogt.jpg"}
    ]
  
 }
